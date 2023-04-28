@@ -1,5 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQHwSZVIVHTH1w/article-cover_image-shrink_600_2000/0/1623817393189?e=2147483647&v=beta&t=Ugfvr044S0Va_vi68x77ka90fps-5w9-D0Uk3rRlIFk)](https://rishavchanda.io)
 
+<img align="right" alt="Coding" width="230" src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952zaaely9auwfihswig0fiq66vepnl71mt9b5mh0l5&rid=giphy.gif&ct=s">
+
 <h1 align="center">Hi 👋, I'm Jasper</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper557&label=Profile%20views&color=0e75b6&style=flat" alt="jasper557" /> </p>
 
